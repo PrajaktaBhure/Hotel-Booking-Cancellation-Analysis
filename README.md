@@ -5,7 +5,7 @@ Analyzed Hotel Booking Cancellations using Excel and Data Analytics
 This project analyzes hotel booking data to understand cancellation patterns and key factors influencing booking cancellations.  
 The analysis and dashboard were created using Microsoft Excel.
 
-Dataset source: WSCube Tech (YouTube)
+Dataset source: Kaggle - Hotel Booking Demand Dataset
 
 ---
 
