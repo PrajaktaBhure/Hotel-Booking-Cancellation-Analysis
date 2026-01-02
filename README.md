@@ -1,7 +1,5 @@
-# Hotel-Booking-Cancellation-Analysis
+# Hotel-Booking-Cancellation-Analysis (Excel)
 Analyzed Hotel Booking Cancellations using Excel and Data Analytics
-
-# Hotel Booking Cancellation Analysis (Excel)
 
 ## Project Overview
 This project analyzes hotel booking data to understand cancellation patterns and key factors influencing booking cancellations.  
@@ -41,8 +39,6 @@ The Excel dashboard includes:
 - Monthly booking & cancellation trend
 - Market segment wise cancellation analysis
 - Customer type & deposit type impact on cancellations
-
-(Note: Revenue KPI is not included as per dataset and project scope)
 
 ---
 
